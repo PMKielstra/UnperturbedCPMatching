@@ -1,4 +1,5 @@
 # Unperturbed C-P-Matching Sample Code
+[![DOI](https://zenodo.org/badge/202629044.svg)](https://zenodo.org/badge/latestdoi/202629044)
 
 This is an example implementation, in Python 3, of the minimum-cost perfect matching algorithm described in Chen, Cheung, Kielstra, and Winn's paper _Revisiting a Cutting Plane Method for Perfect Matchings_.  It currently uses SciPy to solve linear programs, but will work with any black-box LP solver with only minor alterations.
 
